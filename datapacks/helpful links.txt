@@ -1,0 +1,9 @@
+https://minecraft.fandom.com/wiki/Commands#Target_selector_variables
+https://minecraft.fandom.com/wiki/Function_(Java_Edition)
+https://minecraft.fandom.com/wiki/Tutorials/Creating_a_data_pack
+
+https://github.com/sp614x/optifine/blob/master/OptiFineDoc/doc/cit_single.properties
+
+https://www.reddit.com/r/Minecraft/comments/e48klu/adding_nbt_tags_to_existing_items/
+
+https://minecraft.fandom.com/wiki/Armor
