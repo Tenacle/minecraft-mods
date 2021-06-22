@@ -1,0 +1,19 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:'MHF_Golem'}"
+		},
+		"title": "Tenacle Data Packs",
+		"frame": "challenge",
+		"description": ["", {"text":"Data packs created/modified by Tenacle\n", "color": "gold"}],
+		"background": "minecraft:textures/block/chiseled_deepslate.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
