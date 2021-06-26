@@ -1,17 +1,33 @@
 {
-	"display": {
-		"icon": {
-			"item": "minecraft:leather_chestplate"
-		},
-		"title": "Hidden Armor",
-		"description": ["",{"text":"Let's you show off your skin.\n","color":"gold"},{"text":"Enter","color":"green"},{"text":" ","color":"gold"},{"text":"/trigger hide_armor","color":"yellow"},{"text":" for config.","color":"gold"}],
-		"show_toast": false,
-		"announce_to_chat": false
-	},
+    "display": {
+        "icon": {
+            "item": "minecraft:leather_chestplate"
+        },
+        "title": "Hidden Armor",
+        "description": ["", {
+                "text": "Let's you show off your skin.\n",
+                "color": "gold"
+            }, {
+                "text": "Enter",
+                "color": "green"
+            }, {
+                "text": " ",
+                "color": "gold"
+            }, {
+                "text": "/trigger hide_armor",
+                "color": "yellow"
+            }, {
+                "text": " for config.",
+                "color": "gold"
+            }
+        ],
+        "show_toast": false,
+        "announce_to_chat": false
+    },
     "parent": "tenacle:root",
-	"criteria": {
-		"tick": {
-			"trigger": "minecraft:tick"
-		}
-	}
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
 }

@@ -1,6 +1,1 @@
-{
-	"values": [
-		"hidden_armor:load",
-		"hidden_armor:tick"
-	]
-}
+{"replace":false,"values":["hidden_armor:load","hidden_armor:tick"]}

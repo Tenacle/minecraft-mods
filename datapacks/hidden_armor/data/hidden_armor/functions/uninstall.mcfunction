@@ -3,5 +3,4 @@
 schedule clear hidden_armor:tick
 
 scoreboard objectives remove hide_armor
-
 scoreboard objectives remove ha_state
